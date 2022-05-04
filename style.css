@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+@import url('https://kit.fontawesome.com/3dd29a7651.js');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+
+body {
+background-color:#e6f0a7
+}
+
+h1, h2 {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+  color: #1f7721;
+}
+
+h2 {
+  color: #248325;
+}
+
+p {
+  color: #e0842e;
+  font-size: 20px;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+div {
+  background-color: white;
+  padding: 24px;
+  margin: 16px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 10px rgb(1, 82, 1);
+  width: 60%;
+  margin: 30px auto;
+  padding: 10px;
+  justify-content: center;
+  text-align: center;
+
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  display: inline;
+}
+
+li i {
+  color: #6abb6c;
+  padding: 0 10px;
+  font-size: 24px;
+}
+
+li i:hover {
+  color: #208b21;
+}
